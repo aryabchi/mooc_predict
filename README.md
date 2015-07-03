@@ -1,3 +1,3 @@
-# A simple model for predicting MOOC participation
+### A simple model for predicting MOOC participation
 
 A logistic regression model for predicting future edX MOOC participation of a registered person with MOOC interaction history. It beats by 2.8% in accuracy the baseline model (i.e. which always predicts the most common outcome) on the independent test set and has AUC performance of 0.71. The ‘optimal’ model includes 10 predictors out of 15 initially assumed and has been chosen by trying Best Subset Selection, Stepwise Selection and LASSO. The dataset of edX MOOCs used for model training/testing is publicly available at http://thedata.harvard.edu/dvn/dv/mxhx.
