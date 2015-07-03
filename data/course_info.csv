@@ -1,0 +1,17 @@
+course_id,registration_open,launch_date,wrap_date,length,course_chapters,subject,transcript,min_effort,max_effort,level,prerequisites,cert_grade,self_paced
+HarvardX/CB22x/2013_Spring,2012-12-19,2013-03-13,2013-08-26,17,27,Humanities,0,3,5,Introductory,0,0.5,0
+HarvardX/CS50x/2012,2012-07-24,2012-10-15,2013-04-15,NA,12,Computer Science,0,NA,NA,Introductory,0,1.0,1
+HarvardX/ER22x/2013_Spring,2012-12-19,2013-03-02,2013-07-26,12,34,Ethics,1,2,2,Introductory,0,0.6,0
+HarvardX/PH207x/2012_Fall,2012-07-24,2012-10-15,2013-01-30,13,16,Health & Safety,0,10,10,Intermediate,1,0.8,0
+HarvardX/PH278x/2013_Spring,2012-12-19,2013-05-15,2013-07-25,12,11,Health & Safety,0,10,10,Intermediate,1,0.5,0
+MITx/14.73x/2013_Spring,2012-12-19,2013-02-12,2013-05-21,13,12,Economics & Finance,0,6,6,Introductory,1,0.5,0
+MITx/2.01x/2013_Spring,2013-02-24,2013-04-15,2013-07-30,12,13,Engineering,0,12,12,Intermediate,1,0.6,0
+MITx/3.091x/2012_Fall,2012-07-24,2012-10-09,2013-01-15,15,16,Chemistry,0,12,12,Introductory,1,0.6,0
+MITx/3.091x/2013_Spring,2012-12-20,2013-02-05,2013-06-21,15,22,Chemistry,0,12,12,Introductory,1,0.6,0
+MITx/6.002x/2012_Fall,2012-07-24,2012-09-05,2012-12-25,16,18,Computer Science,0,12,12,Advanced,1,0.6,0
+MITx/6.002x/2013_Spring,2012-12-20,2013-03-03,2013-07-01,16,21,Computer Science,0,12,12,Advanced,1,0.5,0
+MITx/6.00x/2012_Fall,2012-07-24,2012-09-26,2013-01-15,16,19,Computer Science,0,8,12,Introductory,1,0.55,0
+MITx/6.00x/2013_Spring,2012-12-19,2013-02-04,2013-06-04,16,19,Computer Science,0,8,12,Introductory,1,0.55,0
+MITx/7.00x/2013_Spring,2013-01-30,2013-03-05,2013-06-06,12,18,Biology & Life Sciences,0,7,14,Introductory,1,0.6,0
+MITx/8.02x/2013_Spring,2013-01-17,2013-02-18,2013-06-18,17,21,Engineering,0,9,12,Introductory,1,0.6,0
+MITx/8.MReV/2013_Summer,2013-04-27,2013-06-01,2013-09-15,15,48,Engineering,0,8,8,Introductory,1,0.6,0
